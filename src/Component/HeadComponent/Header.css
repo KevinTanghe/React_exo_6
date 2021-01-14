@@ -1,0 +1,6 @@
+.containerHeader{
+    display: flex;
+    justify-content: space-between;
+    background-color: #383838;
+    border-bottom: solid lightgreen 10px;
+}

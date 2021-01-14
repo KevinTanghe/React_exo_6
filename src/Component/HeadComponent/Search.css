@@ -1,0 +1,14 @@
+.containerSearch{
+    display: flex;
+    margin: 10px;
+}
+
+.containerSearch input{
+    height: 20px;
+    margin: 15px;
+}
+
+.containerSearch button{
+    height: 25px;
+    margin: 15px 0px;
+}

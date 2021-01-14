@@ -1,0 +1,10 @@
+.containerNavbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerNavbar a{
+    margin: 10px;
+    border: solid lightgreen 1px;
+}

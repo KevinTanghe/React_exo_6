@@ -1,0 +1,26 @@
+#Section{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.containerSection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+}
+
+.containerSection img{
+    width: 350px;
+    height: 300px;
+    margin-right: 200px;
+}
+
+.containerSection p {
+    width: 70%;
+    
+}
+
+.containerSection h2 {
+    color: lightgreen;
+}
